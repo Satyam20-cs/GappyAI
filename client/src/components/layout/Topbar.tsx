@@ -1,8 +1,5 @@
-import { User } from "lucide-react";
-import { useAuth } from "../../context/authcontext";
-
 export default function Topbar() {
-  const { logout } = useAuth();
+
 
   return (
     <div className="mb-8 flex items-center justify-between rounded-3xl border border-white/40 bg-white/70 px-8 py-6 shadow-lg backdrop-blur-xl">
