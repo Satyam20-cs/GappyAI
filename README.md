@@ -119,7 +119,8 @@ Instead of switching between tools, users can manage applications, improve resum
 ---
 
 ## Contributors
-**Pranjal Dey**
+**Pranjal Dey** 
 Github: https://github.com/Pjdey28
+
 **Satyam Mohanty**
 GitHub: https://github.com/Satyam20-cs
